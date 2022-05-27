@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Oswald', sans-serif;
+}
+/* a{
+  text-decoration: none;
+  color: rgb(12, 12, 12);
+}
+ul{
+  list-style: none;
+}
+.container{
+  width: 90%;
+  margin: auto;
+  background: blue; 
+}
+/* stilos de navegacion 
+.main{
+font-size: 17px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 60px;
+padding: 20px 0;
+/* background: red; 
+}
+.logoimagen{
+  width: 120px;
+}
+.main ul{
+  display: flex;
+}
+.main ul li{
+  padding: 10px;
+}
+.main ul li a:hover{
+  border-bottom: 2px solid rgb(8, 8, 8);
+}*/
+h1{
+    text-align: center;
+    font-size: 2em;
+}
+.formulario_principal{
+  width: 70%;
+  margin: 0 auto; 
+}
+.form-control{
+  background-color: transparent;
+}
+.btn {
+  background-color: green;
+}
